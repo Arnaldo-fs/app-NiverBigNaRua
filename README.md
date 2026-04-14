@@ -3,7 +3,7 @@
 Um aplicativo simples feito em Flutter para visualizar aniversários cadastrados. <br><br>
 
 ## Sobre o projeto
-Este app permite visualizar uma lista de aniversariantes do mês carregados diretamente de uma planilha do Google Sheets, além de receber uma notificação do aniversariante do dia em questão, caso o usuário se esqueça <br><br>
+Este app permite visualizar uma lista de aniversariantes do mês carregados diretamente de uma planilha do Google Sheets, além de receber uma notificação no celular sobre o aniversariante do dia em questão, caso o usuário se esqueça <br><br>
 
 ## Tecnologias utilizadas
 - Flutter
